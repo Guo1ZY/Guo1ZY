@@ -102,11 +102,6 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
   </a>
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guo1ZY&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
