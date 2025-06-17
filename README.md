@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding Cat" width="400" src="https://raw.githubusercontent.com/Guo1ZY/Guo1ZY/main/9dd2d89654c95ee3b40e65b14f2a985a.png">
 
 - 🎓 **Senior** majoring in **Electronic Engineering** at **UESTC**
 - 🇨🇳 **From China** with a passion for technology
@@ -21,8 +21,11 @@
 ## 📫 Get In Touch
 
 <div align="left">
+  <a href="mailto:guo1zy0830@gmail.com">
+    <img src="https://img.shields.io/badge/Work_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email"/>
+  </a>
   <a href="mailto:1352872047@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Personal_Email-1976D2?style=for-the-badge&logo=qq&logoColor=white" alt="Personal Email"/>
   </a>
   <a href="https://zyblogs.cn">
     <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
@@ -113,4 +116,3 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
- 
