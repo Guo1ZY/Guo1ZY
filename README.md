@@ -12,11 +12,17 @@
 <img align="right" alt="Coding Cat" width="400" src="https://raw.githubusercontent.com/Guo1ZY/Guo1ZY/main/9dd2d89654c95ee3b40e65b14f2a985a.png">
 
 - 🎓 **Senior** majoring in **Electronic Engineering** at **UESTC**
-- 🇨🇳 **From China** with a passion for technology
-- 💻 Focused on **Embedded Programming** and **Artificial Intelligence**
-- 📝 Sharing knowledge through my [**blog**](https://zyblogs.cn) - study records & life thoughts
-- 🌱 Always learning, always growing - **Lifelong learner**
-- 🤝 Open to collaboration and new opportunities
+- 🇨🇳 **From China** with a passion for cutting-edge technology
+- 🤖 **Current Focus**: Large Language Models, Artificial Intelligence, Embodied Intelligence, Reinforcement Learning
+- 💻 **Technical Background**: Embedded Programming, Computer Vision, Deep Learning
+- 🔬 **Research Interests**: 
+  - 🧠 **Large Language Models (LLMs)** - Exploring the frontiers of AI language understanding
+  - 🤖 **Embodied Intelligence** - Bridging AI with physical world interactions
+  - 🎯 **Reinforcement Learning** - Teaching machines to learn through experience
+  - 🔍 **Multi-modal AI** - Integrating vision, language, and sensor data
+- 📝 Sharing knowledge through my [**blog**](https://zyblogs.cn) - study records & research insights
+- 🌱 Always learning, always growing - **Lifelong learner** in the era of AI
+- 🤝 Open to research collaboration and innovative projects
 
 ## 📫 Get In Touch
 
@@ -88,11 +94,11 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Guo1ZY/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guo1ZY&repo=PROJECT1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Guo1ZY/IntelRealsense_D455">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guo1ZY&repo=IntelRealsense_D455&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Guo1ZY/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guo1ZY&repo=PROJECT2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Guo1ZY/Yolov8/tree/ONNX_CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guo1ZY&repo=Yolov8&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
