@@ -57,7 +57,7 @@
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🥈_2024-ABU_Robot_Competition_ROBOCON-silver?style=for-the-badge&labelColor=C0C0C0&color=A9A9A9" />
-        <br><strong>Global Top 8</strong>
+        <br><strong>Best Idea Prize & Global Top 8</strong>
       </td>
     </tr>
     <tr>
